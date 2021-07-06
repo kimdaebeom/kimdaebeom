@@ -1,8 +1,8 @@
 <a href="https://blog.naver.com/ted97k" target="_blank"><img src="https://img.shields.io/badge/TechBlog-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/ted97kr@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>  
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/ted97kr@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>    
   
   
-😄 Hi there! I'm interest in Autonomous Driving.
+😄 Hi there! I'm interest in Autonomous Driving.      
   
   
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   
 
-### Studying
+### Studying    
   
 
 <!--<p align="center">-->
