@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kim Dae Beom
 
 <!--
 **kimdaebeom/kimdaebeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.ros.org/" target="_blank"><img src="#22314E&logo=ROS&logoColor=white"/></a>
