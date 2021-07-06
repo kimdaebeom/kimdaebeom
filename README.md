@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.ros.org/" target="_blank"><img src="#22314E&logo=ROS&logoColor=white"/></a>
+<a href="https://www.ros.org/" target="_blank"><img src="https://simpleicons.org/?q=ros-navy?style=flat-square&logo=ROS&logoColor=navy"/></a>
