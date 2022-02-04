@@ -8,6 +8,9 @@
 <a href="https://www.cplusplus.org/" target="_blank"><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <!--</p>-->
 
+- 👯 I majored in autonomous vehicle and IT convergence at Kookmin University.
+- 🔭 I’m currently working on KAIST URL Internship.
+- 🌱 I’m currently learning LiDAR based SLAM.
 <!--
 **kimdaebeom/kimdaebeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
