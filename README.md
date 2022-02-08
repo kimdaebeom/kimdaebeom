@@ -10,7 +10,7 @@
 
 - 👯 I majored in autonomous vehicle and IT convergence at Kookmin University.
 - 🔭 I’m currently working on KAIST URL(Urban Robotics Lab.) Internship.
-- 🌱 I’m currently learning LiDAR based SLAM.
+- 🌱 I’m currently learning SLAM.
 <!--
 **kimdaebeom/kimdaebeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
