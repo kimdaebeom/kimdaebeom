@@ -7,6 +7,8 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-blueviolet?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.cplusplus.org/" target="_blank"><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <!--</p>-->
+  
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/kimdaebeom/CV/blob/main/DaeBeom_Kim_Resume.pdf) 
 
 - 👯 I majored in autonomous vehicle and IT convergence at Kookmin University.
 - 🔭 I’m currently working on KAIST URL(Urban Robotics Lab.) Internship.
