@@ -4,7 +4,7 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-blueviolet?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.cplusplus.org/" target="_blank"><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
-<a href="https://www.matworks.com/" target="_blank"><img src="https://img.shields.io/badge/Matlab-red?style=flat-square&logo=Matlab&logoColor=white"/></a>
+<a href= target="_blank"><img src="https://img.shields.io/badge/Markdown-gray?style=flat-square&logo=Markdown&logoColor=white"/></a>
 <!--</p>-->
   
 
