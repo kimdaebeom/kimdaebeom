@@ -13,7 +13,7 @@
 
 - 👯 I majored in autonomous vehicle and IT convergence at Kookmin University.
 - 🔭 I’m currently working on KAIST URL(Urban Robotics Lab.) Internship.
-- 🌱 I’m currently learning SLAM.
+- 🌱 I’m currently studying SLAM.
   
 ### More about me
 <a href="https://blog.naver.com/ted97k" target="_blank"><img src="https://img.shields.io/badge/TechBlog-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a> 
