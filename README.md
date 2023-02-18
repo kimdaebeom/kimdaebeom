@@ -11,8 +11,8 @@
   
 
 
-- 👯 I majored in autonomous vehicle and IT convergence at Kookmin University.
-- 🔭 I’m currently working on KAIST URL(Urban Robotics Lab.) Internship.
+- 👯 I graduated from Kookmin University, autonomous vehicle and IT convergence.
+- 🔭 Now, in the Master program at Robotics Program, KAIST Urban Robotics Lab.
 - 🌱 I’m currently studying SLAM.
   
 ### More about me
