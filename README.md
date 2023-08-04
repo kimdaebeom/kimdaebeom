@@ -12,7 +12,7 @@
 
 
 - 👯 I graduated from Kookmin University, department of Automobile and IT Convergence.
-- 🔭 Now, in the Master program at the Robotics Program, KAIST Urban Robotics Lab.
+- 🔭 Now, in the Master program at the Robotics Program, [KAIST Urban Robotics Lab.](https://github.com/url-kaist)
 - 🌱 LiDAR Odometry, 3D Registration, LiDAR sensors.
   
 ### More about me
