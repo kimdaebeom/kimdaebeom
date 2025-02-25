@@ -4,9 +4,11 @@
   
 
 
-- 🎓 I graduated from Kookmin University, department of Automobile and IT Convergence.
-- ✒️ Now, in the Master program at the Robotics Program, [KAIST Urban Robotics Lab.](https://github.com/url-kaist)
-- 🔖 LiDAR Odometry, 3D Registration, LiDAR sensors.
+- ✒️ I am now a Ph.D. candidate at the School of Electrical Engineering at KAIST. [KAIST Urban Robotics Lab.](https://github.com/url-kaist)
+- 🎓 Education
+  - M.S. KAIST Robotics Program (Feb. 2025)
+  - B.S. Kookmin Univ. Department of automobile and IT convergence (Feb. 2023)
+- 🔖 Research area: 3D map management, Life-long mapping, 3D Registration.
   
 ### More about me
 <a href="https://blog.naver.com/ted97k" target="_blank"><img src="https://img.shields.io/badge/TechBlog-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a> 
